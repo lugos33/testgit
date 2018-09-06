@@ -2,7 +2,8 @@ class Test {
 	constructor() {}
 
 
-	newAwesomeMethod(awesome, method) {
+	newAwesomeMethod(awesomeModifie, methodModifie) {
+
 	console.log("Awesome");
 }
 }
